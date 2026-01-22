@@ -1,0 +1,17 @@
+/* Mobile header: reduce the big vertical gap and make title wrap tighter */
+@media (max-width: 768px) {
+  .header {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+  }
+
+  .nav {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .logo a {
+    line-height: 1.05 !important;
+    white-space: normal !important;
+  }
+}

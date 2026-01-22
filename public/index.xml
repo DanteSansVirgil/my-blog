@@ -6,6 +6,14 @@
     <description>Recent content on Dante sans Virgil: A Wandering Project Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post Template</title>
+      <link>//localhost:1313/posts/new-post-template/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/new-post-template/</guid>
+      <description>&lt;p&gt;Intro text for the post, displayed on homepage&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-theme = "PaperMod"
 baseURL = "/"
 languageCode = "en-us"
 title = "Dante sans Virgil: A Wandering Project Blog"
+theme = "PaperMod"
