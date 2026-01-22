@@ -55,7 +55,7 @@ After struggling with CUDA drivers for a week, I finally had 1200 watts of heati
 
 ---
 
-I ran the mining rig for about two years before the block difficulty and price of cyrpto slowed down to the point it wasn't really worth continuing.  I also moved into a new place that didn't need electric heat to stay warm.  At that point, I "sold the farm", and kept and extra 1080Ti to make a new gaming computer.  
+I ran the mining rig for about two years before the block difficulty and price of cyrpto slowed down to the point it wasn't really worth continuing.  I also moved into a new place that didn't need electric heat to stay warm.  At that point, I "sold the farm", and kept an extra 1080Ti to make a new gaming computer.  
 
 I upgraded the CPU to a Ryzen 3600 and planned a new layout for the case.  I really liked the caseless design and was surprised with how little dust accumulated on the mining rig, so I stuck with that approach.
 
@@ -70,11 +70,14 @@ The computer could be mounted vertically or laid flat depending on desk space.  
 
 {{< img src="frame3.jpg" alt="My photo" width="1200" >}}
 {{< img src="frame4.jpg" alt="My photo" width="1200" >}}
+{{< img src="flat.jpg" alt="My photo" width="1200" >}}
 
 
 ---
 
 I would like to thank NVIDIA for the greatest mistake they ever made: the 1080Ti.  A card launched in Q1 2017 has no business being so relevant almost 10 years later.  For 1080p gaming at 144Hz, it gets the job done for most titles.  Color coordination dictated I swap the MSI Armor card for the beefier and RGB LED equipped AORUS.
+
+{{< img src="aorus.jpg" alt="My photo" width="1200" >}}
 
 ***As they say on the Fury Road; BY MY DEEDS I HONOR HIM, 1080 TI!!***
 {{< img src="madmax.jpg" alt="My photo" width="1200" >}}

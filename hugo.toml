@@ -1,7 +1,9 @@
-baseURL = "/"
+baseURL = "https://dante-sans-virgil.com/"
 languageCode = "en-us"
 title = "Dante sans Virgil: A Wandering Project Blog"
 theme = "PaperMod"
+
+
 
 [markup]
   [markup.goldmark]
