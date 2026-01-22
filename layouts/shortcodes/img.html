@@ -1,18 +1,19 @@
 {{- $src := .Get "src" -}}
 {{- $alt := .Get "alt" | default "" -}}
-{{- $w := (.Get "width" | default "1200") | int -}}
+{{- $w := .Get "width" | default "1600" -}}
 
 {{- $img := .Page.Resources.GetMatch $src -}}
 {{- if not $img -}}
-  {{ errorf "img shortcode: couldn't find %q next to %q" $src .Page.File.Path }}
+  {{- errorf "img shortcode: couldn't find %q next to %q" $src .Page.File.Path -}}
 {{- end -}}
 
-{{- $resized := $img.Resize (printf "%dx webp q80" $w) -}}
+{{- $resized := $img.Resize (printf "%sx webp q92" $w) -}}
 
 <img
   src="{{ $resized.RelPermalink }}"
+  alt="{{ $alt }}"
   width="{{ $resized.Width }}"
   height="{{ $resized.Height }}"
-  alt="{{ $alt }}"
+  style="max-width: 100%; height: auto; display: block;"
   loading="lazy"
 />
