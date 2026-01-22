@@ -1,7 +1,7 @@
 ---
 title: "New Post Template"
 date: 2026-01-22
-draft: false
+draft: true
 
 cover:
   image: "cover-small.jpg"
