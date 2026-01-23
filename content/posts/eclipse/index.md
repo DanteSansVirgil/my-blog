@@ -1,5 +1,5 @@
 ---
-title: "Eclipse Viewing Without Glasses: An Unofficial Guide"
+title: "Watching the Eclipse Without Glasses: An Unofficial Guide"
 date: 2026-01-22
 draft: false
 
@@ -13,7 +13,7 @@ Do not attempt.  I am what you might call a "professional".
 
 <!--more-->
 
-The Great North American Eclipse of 2024 brought totality to 15 states here in the good ol' US of A.  The corona's intensely bright light is damaging to view for even a few moments with the naked eye. Much like toilet paper circa March 2020, the glasses needed to safely view the corona were completely sold out in the days leading up to its arrival.  I wasn't sure if I would have work off that day so I had not planned ahead.  Even my buddy in Boston couldn't locate a pair by the time we decided to take the road trip into northern Maine along the path of totality (t-minus 2 days).  What are a couple of bandwagon astrologists to do?
+The Great North American Eclipse of 2024 brought totality to 15 states in the USA.  The corona's intensely bright light is damaging to view with the naked eye for even a few moments. Much like toilet paper circa March 2020, the glasses needed to safely view the corona were completely sold out in the days leading up to its arrival.  I had not planned ahead.  Even my buddy in Boston couldn't locate a pair by the time we decided to take the road trip into northern Maine along the path of totality (t-minus 2 days).  What are a couple of bandwagon astrologists to do?
 
 A heavy duty pair of welding goggles suits the same purposes as these plastic glasses - dimming most but not all visible light, along with UV rays.  So $30 and one trip to the local Harbor Freight and we're good to go, right?  
 

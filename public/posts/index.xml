@@ -9,18 +9,18 @@
     <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eclipse Viewing Without Glasses: An Unofficial Guide</title>
-      <link>http://localhost:1313/posts/eclipse/</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/eclipse/</guid>
-      <description>&lt;p&gt;Intro text for the post, displayed on homepage&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>My Oops-Baby Desktop PC</title>
       <link>http://localhost:1313/posts/desktop-pc/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/desktop-pc/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;A lesson in feature creep and happy accidents.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watching Eclipses Without Glasses: An Unofficial Guide</title>
+      <link>http://localhost:1313/posts/eclipse/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/eclipse/</guid>
+      <description>&lt;p&gt;Do not attempt.  I am what you might call a &amp;ldquo;professional&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

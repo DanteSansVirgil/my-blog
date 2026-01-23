@@ -47,7 +47,7 @@ Turns out there are not many boards that support six cards simultaneously.  Afte
 
 {{< img src="wood-base.jpg" alt="My photo" width="1200" >}}
 
-***A tactical ramen cup was later added to "tilt" the GPUs and prevent rocking on the risers.***
+A tactical ramen cup was later added to tilt the GPUs and prevent rocking on the risers.
 
 {{< img src="ramen-mode.jpg" alt="My photo" width="1200" >}}
 
@@ -59,14 +59,14 @@ I ran the mining rig for about two years before the block difficulty and price o
 
 I upgraded the CPU to a Ryzen 3600 and planned a new layout for the case.  I really liked the caseless design and was surprised with how little dust accumulated on the mining rig, so I stuck with that approach.
 
-There was ample 80/20 aluminum extrusion laying around from my first DIY 3D printer.  I printed some custom mounting hardware and put it all together in a weekend.
+There was ample 80/20 aluminum extrusion laying around from my first DIY 3D printer.  I printed some custom mounting hardware and put it all together.
 
 In keeping with the minimalist aesthetic, there was no power switch.  I would short the PWR pins with a metal screwdriver to start it up.  Security through obscurity, anyone?
 
 {{< img src="frame.jpg" alt="My photo" width="1200" >}}
 {{< img src="frame2.jpg" alt="My photo" width="1200" >}}
 
-The computer could be mounted vertically or laid flat depending on desk space.  For a year or so, it was plagued by issues with crashing under load due to obscure firmware changes I made when it was a mining rig.  A BIOS update eventually fixed those issues.
+The computer could be mounted vertically or laid flat depending on desk space.  For a year or so, it was plagued by issues with crashing under load due to obscure changes I made when it was a mining rig.  A BIOS update eventually fixed those issues.
 
 {{< img src="frame3.jpg" alt="My photo" width="1200" >}}
 {{< img src="frame4.jpg" alt="My photo" width="1200" >}}
@@ -82,13 +82,13 @@ I would like to thank NVIDIA for the greatest mistake they ever made: the 1080Ti
 ***As they say on the Fury Road; BY MY DEEDS I HONOR HIM, 1080 TI!!***
 {{< img src="madmax.jpg" alt="My photo" width="1200" >}}
 
-In 2026, I added 1TB of SSD storage for applications and 4TB HDD for bulk storage.  The RAM is overclocked to 3600MHz using XAMP.  But when I tried overclocking the Ryzen 3600 to 4.2GHz, I was hitting the temperature cutoff limit (~90 degrees Celsius).  Oops.
+In 2025, I added 2TB of SSD storage for applications and 4TB HDD for bulk storage.  The RAM is overclocked to 3600MHz using XAMP.  But when I tried overclocking the Ryzen 3600 to 4.2GHz, I was hitting the temperature cutoff limit (~90 degrees Celsius).  Oops.
 
 I replaced the stock cooler with a dual-tower ThermalRight Peerless Assassin.  Now it slings 4.2GHz at a balmy 60 degrees Celsius.  And it comes in black!
 
 {{< img src="cooler.jpg" alt="My photo" width="1200" >}}
 
-Around the same time, I bought myself this nifty knockoff LEGO kit of an SR-71 blackbird.  The PC seemed like a nice place to display it.
+Around the same time, I got this nifty knockoff LEGO kit of an SR-71 blackbird for Christmas.  The PC seemed like a nice place to display it.
 
 {{< img src="blackbird.jpg" alt="My photo" width="1200" >}}
 
@@ -100,6 +100,7 @@ In keeping with the whole black/red cockpit theme, I rigged up a missile-launch 
   Your browser does not support the video tag.
 </video>
 
+{{< img src="cockpit.jpg" alt="My photo" width="1200" >}}
 
 The HDD needed its own mounting bracket and vanity cover. Some CAD modeling and multi-color printing proved successful.
 
@@ -120,4 +121,4 @@ I even shoe-horned the extra Athlon3000G and 650W PSU into another project.... c
 
 
 Final specs:
-Ryzen 3600 @4.2Ghz overclock with dual tower air cooling, Ripjaws DDR4 2x8GB XAMP/3600MHz overclock, B450 Gaming Plus Max Mobo, 650W Seasonic Bronze PSU, 256GB Samsung 980 NVME (OS), 1TB SSD Western Digital SA510, 4TB HDD Western Digital WD40EZAZ
+Ryzen 3600 @4.2Ghz overclock with dual tower air cooling, Ripjaws DDR4 2x8GB XAMP/3600MHz overclock, B450 Gaming Plus Max Mobo, 650W Seasonic Bronze PSU, 256GB Samsung 980 NVME (OS), 2TB SSD Western Digital SA510, 4TB HDD Western Digital WD40EZAZ
